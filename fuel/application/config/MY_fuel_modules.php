@@ -20,6 +20,3 @@ $config['modules']['projects'] = array(
 );
 
 *********************** EXAMPLE ***********************************/
-$config['modules']['authors']= array();
-$config['modules']['articles']= array();
-$config['modules']['categories'] = array(); 

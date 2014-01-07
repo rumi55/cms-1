@@ -1,12 +1,7 @@
   </div>
     <footer>
-      <p>Copyright &copy; Dave Gill 2012</p>
+      <p>Copyright &copy; Dave Gill 2013</p>
     </footer>
   </div>
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('ul.sf-menu').sooperfish();
-    });
-  </script>
 </body>
 </html>
