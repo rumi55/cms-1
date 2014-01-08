@@ -5,7 +5,7 @@
 $config['fuel_path'] = 'fuel/';
 
 // the name to be displayed on the top left of the admin
-$config['site_name'] = 'My Website';
+$config['site_name'] = 'Dave Gill';
 
 // options are cms, views, and auto. cms pulls views and variables from the database,
 // views mode pulls views from the views folder and variables from the _variables folder.
@@ -13,7 +13,7 @@ $config['site_name'] = 'My Website';
 $config['fuel_mode'] = 'auto';
 
 // used for system emails.
-$config['domain'] = '';
+$config['domain'] = 'dave-gill.co.uk';
 
 // default password to alert against
 $config['default_pwd'] = 'admin';
